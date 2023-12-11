@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Giới thiệu bản thân</title>
+</head>
+<body>
+  <h1>Thông tin cá nhân</h1>
+  
+  <p><strong>Họ và tên:</strong> Nguyễn Thu Hiền</p>
+  <p><strong>Ngày sinh:</strong> 28/05/2004</p>
+  <p><strong>Lớp:</strong> DCCTCT67-D2</p>
+  <p><strong>Trường:</strong> Đại học Mỏ Địa chất</p>
+  
+  <h2>Sơ lược về bản thân</h2>
+  <p><strong>Sở thích:</strong> Đọc sách, xem anime, vẽ tranh,...</p>
+  <p><strong>Kỹ năng:</strong> Kỹ năng chưa phát  triển nhiều còn rất nhiều điều cần học hỏi</p>
+  <p><strong>Mong muốn:</strong> Tham gia clb phát triển hơn về kỹ năng lập trình</p>
+  
+</body>
+</html>
